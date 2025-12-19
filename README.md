@@ -39,6 +39,9 @@
 - Carte des lieux : le joueur choisit sa prochaine cible, certains endroits étant verrouillés selon le niveau.
 
 ### Gameplay :
+-Perspectives:
+caméra : vue à la troisième personne
+première personne (selon les phases)
 - Observation : repérer caméras, cachettes, plan des bâtiments.
 - Résolution d’énigmes : ouvrir portes, coffres, accès aux ventilations, trouver codes, effacer preuves.
 - Chronomètre : pression pour agir rapidement.
@@ -64,12 +67,13 @@ Graphismes stylisés
 - Intelligence artificielle simple (caméras, patrouilles)
 
 ![style de jeu video](https://images9.kabum.com.br/produtos/fotos/sync_mirakl/729209/xlarge/Jogo-Hello-Neighbor-2-Playstation-5_1742307044.jpg)
+Hello Neighbor
 
 ## En quoi le concept répond aux attentes du public-cible ?
 Le concept répond aux attentes en offrant de la liberté, du suspense et une difficulté qui augmente graduellement. Le joueur se sent impliqué, responsable de ses choix et constamment mis au défi.
 
 ## Moodboard
-![moodboard](https://github.com/user-attachments/assets/2b56ea51-0550-4730-a0b8-2886f8d8c8f8) 
+![moodboard]([https://github.com/user-attachments/assets/2b56ea51-0550-4730-a0b8-2886f8d8c8f8](https://github.com/user-attachments/assets/92f6bc42-0572-46eb-a32d-4abd5f436a90) 
 
 ## Tâches principales
 
@@ -78,12 +82,14 @@ Le concept répond aux attentes en offrant de la liberté, du suspense et une di
 - Analyse du public cible
 - Création des premières idées visuelles
 - Rédaction du document de conception
+- Constituer l’équipe
 
 ### Production
 - Développement du gameplay
 - Création des environnements et des missions
 - Intégration des énigmes et de l’IA
 - Design sonore et visuel
+- Création de modèles 3D, textures, animations
 
 ###  Postproduction
 - Tests et correction de bugs
@@ -97,6 +103,7 @@ Le concept répond aux attentes en offrant de la liberté, du suspense et une di
 
 ## La maquette
 ![maquette](https://github.com/user-attachments/assets/6fe50c03-c218-4aa1-9bb2-a5a519681750) 
+Généré par ChatGPT
 
 ## La coclusion
 

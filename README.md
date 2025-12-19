@@ -1,9 +1,9 @@
 # Synthese
 # Jeu vidéo
 
-Elayyan Mariam
-582-101 Domaines multimédias
-Session d’automne
+- Elayyan Mariam
+- 582-101 Domaines multimédias
+- Session d’automne
 
 
 ## Public cible

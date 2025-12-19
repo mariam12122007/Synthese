@@ -73,7 +73,7 @@ Hello Neighbor
 Le concept répond aux attentes en offrant de la liberté, du suspense et une difficulté qui augmente graduellement. Le joueur se sent impliqué, responsable de ses choix et constamment mis au défi.
 
 ## Moodboard
-![moodboard]([https://github.com/user-attachments/assets/2b56ea51-0550-4730-a0b8-2886f8d8c8f8](https://github.com/user-attachments/assets/92f6bc42-0572-46eb-a32d-4abd5f436a90) 
+![moodboard](https://github.com/user-attachments/assets/92f6bc42-0572-46eb-a32d-4abd5f436a90) 
 
 ## Tâches principales
 

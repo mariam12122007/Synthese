@@ -1,1 +1,102 @@
 # Synthese
+# Jeu vidéo
+
+Elayyan Mariam
+582-101 Domaines multimédias
+Session d’automne
+
+
+## Public cible
+
+### Pour ceux qui:
+- Aiment les jeux immersifs, stressants et qui demandent de réfléchir.
+- Aiment résoudre des énigmes.
+- Aiment les jeux d’infiltration et de stratégie.
+- S’intéressent aux documentaires et aux histoires de crimes.
+
+### Ce qui est important pour eux
+
+- Un gameplay immersif et réaliste.
+- Un sentiment de progression et de défi.
+- La liberté de choix dans la manière d’agir.
+- Des mécaniques variées (exploration, énigmes, discrétion).
+- De qualité et visuellement attrayant
+
+## Opportunité à résoudre
+- La majorité des jeux criminels = jouer le détective.
+- Peu de jeux où l’on incarne le criminel.
+- Jouer le criminel, pas l’enquêteur.
+- Focus habituel sur l’action rapide.
+- Préparer et planifier avant d’agir.
+- Observer l’environnement.
+- Effacer les preuves pour ne pas se faire prendre.
+
+## Jeu vidéo(concept)
+
+### Progression et missions :
+- Missions graduelles : du vol simple à des crimes plus complexes .
+- Après chaque mission : retour à la cave secrète pour déposer les objets acquis.
+- Carte des lieux : le joueur choisit sa prochaine cible, certains endroits étant verrouillés selon le niveau.
+
+### Gameplay :
+- Observation : repérer caméras, cachettes, plan des bâtiments.
+- Résolution d’énigmes : ouvrir portes, coffres, accès aux ventilations, trouver codes, effacer preuves.
+- Chronomètre : pression pour agir rapidement.
+
+###  Base et ressources :
+- Cave secrète : dépôt des acquisitions pour faciliter les missions suivantes.
+- Objets et outils : utilisés stratégiquement pour réussir les missions.
+
+###  Style et inspiration :
+- Inspiré de véritables histoires criminelles pour plus de réalisme
+- Approche réflexion/planification plutôt qu’action brute.
+
+###  Structure du jeu :
+1. Méditer/planifier le crime
+2. Exécuter le crime
+3. S’enfuir et effacer les preuves
+
+## Choix technologiques
+- Moteur de jeu : Unreal Engine
+- Style visuel semi-cartoon inspiré de Hello Neighbor
+Graphismes stylisés 
+- Éclairage dynamique pour créer du stress et de la tension
+- Intelligence artificielle simple (caméras, patrouilles)
+
+![style de jeu video](https://images9.kabum.com.br/produtos/fotos/sync_mirakl/729209/xlarge/Jogo-Hello-Neighbor-2-Playstation-5_1742307044.jpg)
+
+## En quoi le concept répond aux attentes du public-cible ?
+Le concept répond aux attentes en offrant de la liberté, du suspense et une difficulté qui augmente graduellement. Le joueur se sent impliqué, responsable de ses choix et constamment mis au défi.
+
+## Moodboard
+![moodboard](https://github.com/user-attachments/assets/2b56ea51-0550-4730-a0b8-2886f8d8c8f8) 
+
+## Tâches principales
+
+### Préproduction
+- Définition du concept et du scénario
+- Analyse du public cible
+- Création des premières idées visuelles
+- Rédaction du document de conception
+
+### Production
+- Développement du gameplay
+- Création des environnements et des missions
+- Intégration des énigmes et de l’IA
+- Design sonore et visuel
+
+###  Postproduction
+- Tests et correction de bugs
+- Ajustement de la difficulté
+- Optimisation des performances
+
+###  Opération
+- Mise en ligne du jeu
+- Suivi des commentaires des joueurs
+- Mises à jour et ajout de contenu
+
+## La maquette
+![maquette](https://github.com/user-attachments/assets/6fe50c03-c218-4aa1-9bb2-a5a519681750) 
+
+## La coclusion
+

@@ -100,3 +100,20 @@ Le concept répond aux attentes en offrant de la liberté, du suspense et une di
 
 ## La coclusion
 
+### Ce qui rend le projet innovant
+- Les actions du joueur ont des effets à long terme sur le jeu (plus de surveillance après des erreurs).
+- Les lieux changent selon le moment de la journée et les choix du joueur.
+- L’histoire est racontée à travers les objets trouvés et les décors, sans longues explications.
+- Les sons et la musique changent selon la pression et le danger, ce qui augmente le stress.
+
+### Ce qui le distingue de la concurrence
+- Le jeu ne guide pas trop le joueur : il faut observer et comprendre par soi-même.
+- L’expérience est plus basée sur la tension et la peur d’être découvert que sur la violence.
+- Le joueur fait des choix importants qui influencent sa façon de jouer.
+- Les missions offrent différentes possibilités de réussite, ce qui encourage le joueur à réessayer.
+
+### Pourquoi il pourrait attirer des investisseurs Kickstarter?
+- Le jeu peut facilement être agrandi avec de nouvelles missions et lieux.
+- Il peut créer une communauté active qui partage astuces et stratégies.
+- Le style visuel est fort et facile à reconnaître.
+- Le concept est original et correspond bien au public des jeux indépendants.
